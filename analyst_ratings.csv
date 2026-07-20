@@ -1,0 +1,453 @@
+ticker,date,analyst,rating,price_target
+AAPL,2022-04-18,Citigroup,Strong Buy,450.26
+AAPL,2022-06-22,Citigroup,Hold,349.27
+AAPL,2021-07-02,Citigroup,Hold,437.81
+AAPL,2021-06-28,Goldman Sachs,Sell,322.79
+AAPL,2022-06-03,Goldman Sachs,Sell,271.46
+AAPL,2023-11-03,Goldman Sachs,Sell,204.25
+AAPL,2022-06-06,Citigroup,Sell,335.51
+AAPL,2022-07-28,Bank of America,Hold,137.01
+AAPL,2022-01-03,Morgan Stanley,Buy,309.23
+AAPL,2021-02-10,Morgan Stanley,Buy,492.48
+AAPL,2022-09-23,Morgan Stanley,Hold,188.55
+AAPL,2023-01-10,Goldman Sachs,Sell,436.41
+AAPL,2021-09-15,Bank of America,Buy,453.91
+AAPL,2022-06-13,Morgan Stanley,Buy,353.36
+AAPL,2021-10-22,Goldman Sachs,Sell,207.38
+AAPL,2023-01-09,Morgan Stanley,Buy,306.25
+AAPL,2021-02-16,Goldman Sachs,Strong Buy,302.04
+AAPL,2021-03-04,Bank of America,Buy,379.21
+AAPL,2022-09-29,JP Morgan,Hold,301.83
+AAPL,2022-05-04,Morgan Stanley,Hold,218.08
+AAPL,2021-06-14,JP Morgan,Buy,211.13
+AAPL,2023-06-09,Morgan Stanley,Strong Buy,226.16
+AAPL,2022-06-07,Bank of America,Hold,438.4
+AAPL,2022-10-17,Citigroup,Hold,393.48
+AAPL,2022-09-13,Goldman Sachs,Buy,420.81
+AAPL,2023-05-11,Bank of America,Hold,333.68
+AAPL,2021-01-07,Wells Fargo,Strong Sell,315.86
+AAPL,2022-06-06,Goldman Sachs,Strong Buy,125.43
+AAPL,2023-09-12,Citigroup,Hold,177.57
+AAPL,2022-09-15,Citigroup,Hold,432.98
+AAPL,2023-09-29,Citigroup,Hold,202.81
+AAPL,2021-12-01,Citigroup,Hold,485.86
+AAPL,2021-03-25,JP Morgan,Strong Sell,419.46
+AAPL,2022-04-11,Wells Fargo,Buy,112.61
+AAPL,2023-07-11,Morgan Stanley,Strong Sell,235.64
+AAPL,2022-12-26,Morgan Stanley,Hold,108.67
+AAPL,2022-07-11,JP Morgan,Strong Buy,270.24
+AAPL,2023-11-22,Morgan Stanley,Strong Sell,403.98
+AAPL,2022-03-02,Wells Fargo,Sell,342.69
+AAPL,2022-11-07,Goldman Sachs,Strong Buy,412.89
+AAPL,2021-11-18,Citigroup,Hold,128.79
+AAPL,2021-07-16,JP Morgan,Hold,191.61
+AAPL,2021-03-18,Wells Fargo,Strong Buy,418.23
+AAPL,2022-09-13,Bank of America,Strong Sell,190.63
+AAPL,2023-03-17,Goldman Sachs,Sell,251.97
+AAPL,2021-07-21,Bank of America,Buy,158.62
+AAPL,2023-03-08,Morgan Stanley,Sell,367.4
+AAPL,2023-03-31,Goldman Sachs,Sell,475.03
+AAPL,2021-05-18,Bank of America,Strong Sell,355.49
+AAPL,2023-04-11,Goldman Sachs,Buy,460.04
+AAPL,2022-01-17,Citigroup,Buy,412.4
+AAPL,2021-07-02,Morgan Stanley,Strong Buy,344.91
+GOOGL,2021-10-11,Citigroup,Buy,364.35
+GOOGL,2021-02-04,JP Morgan,Buy,197.9
+GOOGL,2022-10-20,Goldman Sachs,Strong Buy,156.18
+GOOGL,2022-09-06,Goldman Sachs,Hold,412.69
+GOOGL,2021-10-28,Citigroup,Strong Buy,299.91
+GOOGL,2022-02-18,JP Morgan,Sell,481.67
+GOOGL,2021-07-27,Bank of America,Hold,287.65
+GOOGL,2022-06-21,Wells Fargo,Sell,326.4
+GOOGL,2023-08-21,Morgan Stanley,Buy,261.04
+GOOGL,2022-08-25,Goldman Sachs,Hold,445.63
+GOOGL,2022-08-08,Wells Fargo,Sell,334.11
+GOOGL,2021-01-08,Morgan Stanley,Buy,374.78
+GOOGL,2022-07-01,Citigroup,Sell,412.76
+GOOGL,2021-01-12,Bank of America,Sell,302.48
+GOOGL,2023-10-11,Goldman Sachs,Hold,320.52
+GOOGL,2022-11-18,Morgan Stanley,Buy,238.56
+GOOGL,2022-04-07,JP Morgan,Hold,409.54
+GOOGL,2022-01-24,Bank of America,Sell,408.79
+GOOGL,2021-12-03,Goldman Sachs,Hold,216.69
+GOOGL,2021-01-07,Citigroup,Buy,237.36
+GOOGL,2023-09-28,JP Morgan,Sell,293.37
+GOOGL,2021-05-31,Morgan Stanley,Sell,316.59
+GOOGL,2021-02-26,Citigroup,Hold,320.78
+GOOGL,2023-03-21,Wells Fargo,Buy,365.09
+GOOGL,2023-02-07,Goldman Sachs,Strong Sell,288.26
+GOOGL,2023-02-20,Wells Fargo,Buy,427.96
+GOOGL,2022-01-05,Morgan Stanley,Hold,224.22
+GOOGL,2023-07-18,Bank of America,Hold,353.01
+GOOGL,2022-01-27,Goldman Sachs,Sell,407.43
+GOOGL,2023-03-21,Citigroup,Hold,225.01
+GOOGL,2022-04-28,Wells Fargo,Sell,350.21
+GOOGL,2023-02-02,Wells Fargo,Buy,261.7
+GOOGL,2022-11-03,Morgan Stanley,Buy,454.34
+GOOGL,2021-08-19,Wells Fargo,Buy,275.42
+GOOGL,2022-07-19,Goldman Sachs,Sell,364.72
+GOOGL,2022-11-11,JP Morgan,Hold,162.33
+GOOGL,2022-05-11,Goldman Sachs,Strong Buy,408.69
+GOOGL,2023-08-02,Citigroup,Buy,250.06
+GOOGL,2021-04-27,JP Morgan,Buy,354.18
+GOOGL,2022-01-07,Wells Fargo,Hold,311.67
+GOOGL,2021-03-02,JP Morgan,Buy,405.9
+GOOGL,2021-10-07,Morgan Stanley,Strong Buy,281.67
+GOOGL,2022-06-22,Citigroup,Buy,408.63
+GOOGL,2021-10-19,Goldman Sachs,Hold,284.52
+GOOGL,2021-06-04,Citigroup,Buy,372.94
+GOOGL,2023-06-22,Goldman Sachs,Buy,104.4
+GOOGL,2022-08-26,Citigroup,Buy,329.16
+GOOGL,2023-11-08,JP Morgan,Buy,319.17
+GOOGL,2021-04-13,Bank of America,Hold,95.01
+GOOGL,2022-07-27,Wells Fargo,Buy,449.46
+GOOGL,2023-06-12,Citigroup,Buy,399.0
+GOOGL,2023-09-21,JP Morgan,Buy,212.58
+GOOGL,2022-01-27,Morgan Stanley,Buy,172.29
+GOOGL,2021-06-01,Goldman Sachs,Buy,163.72
+GOOGL,2022-09-08,JP Morgan,Buy,84.12
+GOOGL,2023-07-07,Goldman Sachs,Hold,268.98
+GOOGL,2021-03-15,Goldman Sachs,Hold,360.76
+GOOGL,2021-06-23,Wells Fargo,Sell,269.17
+GOOGL,2023-02-28,Morgan Stanley,Sell,338.25
+GOOGL,2022-08-29,Goldman Sachs,Hold,293.67
+GOOGL,2023-02-13,Wells Fargo,Strong Sell,420.74
+GOOGL,2022-03-31,Citigroup,Hold,344.52
+GOOGL,2022-06-10,Citigroup,Sell,90.66
+GOOGL,2023-08-09,Bank of America,Strong Sell,408.53
+GOOGL,2023-02-08,Wells Fargo,Buy,156.67
+MSFT,2023-10-25,Bank of America,Sell,170.72
+MSFT,2021-11-17,Wells Fargo,Hold,319.77
+MSFT,2021-04-06,JP Morgan,Hold,386.18
+MSFT,2022-04-01,Morgan Stanley,Hold,425.61
+MSFT,2022-04-20,Goldman Sachs,Buy,408.35
+MSFT,2023-05-05,Morgan Stanley,Hold,227.93
+MSFT,2023-01-10,Goldman Sachs,Strong Buy,180.45
+MSFT,2021-06-10,JP Morgan,Buy,287.84
+MSFT,2021-05-27,Wells Fargo,Strong Buy,264.64
+MSFT,2022-08-24,Morgan Stanley,Buy,255.95
+MSFT,2022-12-07,Bank of America,Hold,225.07
+MSFT,2022-03-08,Citigroup,Strong Buy,188.1
+MSFT,2021-09-29,JP Morgan,Buy,466.82
+MSFT,2021-10-28,Citigroup,Strong Buy,305.74
+MSFT,2021-07-23,Bank of America,Buy,268.17
+MSFT,2023-05-04,Wells Fargo,Hold,332.94
+MSFT,2023-03-02,Bank of America,Strong Sell,461.61
+MSFT,2021-03-24,Morgan Stanley,Sell,144.3
+MSFT,2023-10-09,Morgan Stanley,Strong Sell,299.79
+MSFT,2023-09-05,JP Morgan,Hold,208.16
+MSFT,2023-08-09,JP Morgan,Hold,324.69
+MSFT,2023-03-27,Wells Fargo,Buy,100.66
+MSFT,2021-06-23,JP Morgan,Hold,358.34
+MSFT,2023-02-09,Bank of America,Strong Buy,252.09
+MSFT,2021-11-26,Bank of America,Hold,125.45
+MSFT,2022-11-21,Bank of America,Strong Buy,171.85
+MSFT,2021-04-16,Wells Fargo,Hold,370.36
+MSFT,2023-05-19,Morgan Stanley,Hold,452.72
+MSFT,2022-02-18,Bank of America,Buy,325.28
+MSFT,2022-12-02,JP Morgan,Buy,183.44
+MSFT,2023-08-21,Wells Fargo,Buy,367.16
+MSFT,2021-06-16,JP Morgan,Buy,279.77
+MSFT,2023-07-10,JP Morgan,Buy,262.32
+MSFT,2022-04-28,Goldman Sachs,Strong Sell,313.75
+MSFT,2021-08-12,Goldman Sachs,Buy,216.86
+MSFT,2023-11-22,Wells Fargo,Strong Buy,316.86
+MSFT,2021-03-09,Morgan Stanley,Buy,188.3
+MSFT,2022-05-25,Bank of America,Hold,234.44
+MSFT,2022-04-13,Wells Fargo,Hold,307.85
+MSFT,2023-05-11,Bank of America,Buy,458.63
+MSFT,2022-06-17,Wells Fargo,Buy,364.32
+MSFT,2021-06-24,Morgan Stanley,Sell,383.62
+MSFT,2023-09-04,Goldman Sachs,Strong Buy,156.99
+AMZN,2023-05-24,Morgan Stanley,Strong Buy,249.13
+AMZN,2022-10-24,Goldman Sachs,Strong Buy,253.59
+AMZN,2022-05-18,Morgan Stanley,Buy,467.56
+AMZN,2022-10-05,Citigroup,Hold,130.47
+AMZN,2022-08-09,Bank of America,Strong Buy,101.51
+AMZN,2023-02-01,JP Morgan,Buy,205.26
+AMZN,2023-11-07,Goldman Sachs,Hold,477.93
+AMZN,2021-04-20,Wells Fargo,Sell,274.28
+AMZN,2021-03-30,Bank of America,Buy,459.03
+AMZN,2023-02-07,Goldman Sachs,Hold,230.72
+AMZN,2023-08-17,Morgan Stanley,Hold,290.83
+AMZN,2021-09-03,Wells Fargo,Strong Buy,434.86
+AMZN,2022-09-20,Citigroup,Hold,267.91
+AMZN,2021-02-02,Citigroup,Sell,253.77
+AMZN,2023-06-27,Goldman Sachs,Hold,473.75
+AMZN,2021-07-08,JP Morgan,Hold,496.95
+AMZN,2023-01-05,Goldman Sachs,Buy,492.97
+AMZN,2022-09-28,Goldman Sachs,Buy,204.09
+AMZN,2021-05-21,Wells Fargo,Hold,390.99
+AMZN,2023-02-17,Morgan Stanley,Hold,278.17
+AMZN,2021-10-11,Morgan Stanley,Buy,349.77
+AMZN,2023-07-05,Goldman Sachs,Buy,370.94
+AMZN,2021-09-16,Goldman Sachs,Hold,386.02
+AMZN,2021-07-27,JP Morgan,Strong Buy,468.76
+AMZN,2022-01-27,Goldman Sachs,Sell,432.35
+AMZN,2022-02-24,Bank of America,Hold,312.56
+AMZN,2022-01-28,Citigroup,Hold,203.4
+AMZN,2022-06-28,Bank of America,Buy,101.5
+AMZN,2021-11-12,Morgan Stanley,Buy,428.48
+AMZN,2023-10-17,Bank of America,Sell,313.22
+AMZN,2022-07-13,Wells Fargo,Buy,159.64
+AMZN,2022-08-09,Wells Fargo,Sell,381.62
+AMZN,2021-08-06,Citigroup,Buy,441.9
+AMZN,2023-07-04,Wells Fargo,Sell,131.57
+AMZN,2021-03-08,Morgan Stanley,Buy,495.53
+AMZN,2021-06-07,JP Morgan,Strong Buy,219.54
+AMZN,2023-09-25,Bank of America,Buy,154.15
+AMZN,2021-11-17,Bank of America,Buy,162.0
+AMZN,2022-03-01,Citigroup,Strong Sell,96.15
+AMZN,2021-04-27,Wells Fargo,Hold,357.52
+AMZN,2021-07-22,Morgan Stanley,Sell,155.07
+AMZN,2023-03-10,Goldman Sachs,Hold,425.95
+AMZN,2021-07-20,Goldman Sachs,Hold,196.1
+AMZN,2022-04-25,Goldman Sachs,Strong Buy,366.19
+AMZN,2022-08-23,Morgan Stanley,Hold,184.01
+AMZN,2022-10-28,Morgan Stanley,Hold,115.17
+AMZN,2023-01-24,Citigroup,Buy,225.68
+AMZN,2023-05-11,JP Morgan,Sell,452.41
+AMZN,2021-07-21,Morgan Stanley,Hold,357.18
+META,2022-01-04,Bank of America,Hold,409.03
+META,2022-09-23,Citigroup,Hold,97.64
+META,2021-02-16,Citigroup,Sell,161.61
+META,2021-04-08,JP Morgan,Buy,341.03
+META,2021-04-28,JP Morgan,Buy,393.38
+META,2022-10-24,Wells Fargo,Strong Buy,320.86
+META,2023-02-14,Morgan Stanley,Hold,258.07
+META,2021-01-07,Bank of America,Sell,396.56
+META,2023-04-04,Wells Fargo,Sell,283.89
+META,2021-09-02,Goldman Sachs,Strong Buy,227.47
+META,2021-05-28,Morgan Stanley,Hold,245.78
+META,2021-07-28,Wells Fargo,Hold,297.98
+META,2021-06-22,Citigroup,Strong Sell,401.53
+META,2021-01-21,JP Morgan,Buy,403.18
+META,2022-12-14,JP Morgan,Strong Sell,88.09
+META,2022-12-13,JP Morgan,Hold,235.86
+META,2023-08-24,Wells Fargo,Buy,288.84
+META,2022-06-28,Goldman Sachs,Hold,272.74
+META,2023-01-18,Morgan Stanley,Hold,475.24
+META,2022-03-22,Wells Fargo,Buy,355.74
+META,2021-07-29,Citigroup,Hold,90.72
+META,2022-12-09,Wells Fargo,Hold,220.56
+META,2023-06-02,Goldman Sachs,Hold,458.18
+META,2022-11-25,Citigroup,Buy,106.23
+META,2022-09-06,Goldman Sachs,Hold,472.82
+META,2022-08-31,Wells Fargo,Hold,458.62
+META,2023-04-11,Citigroup,Hold,394.2
+META,2022-01-06,Bank of America,Buy,229.51
+META,2023-09-05,Goldman Sachs,Sell,491.09
+META,2021-05-24,Bank of America,Hold,140.55
+META,2023-04-24,Bank of America,Strong Buy,182.44
+META,2022-07-27,JP Morgan,Buy,239.01
+META,2023-02-23,Citigroup,Buy,82.05
+META,2021-04-27,JP Morgan,Hold,397.26
+META,2022-07-22,Citigroup,Strong Buy,130.32
+META,2021-06-24,Citigroup,Buy,220.15
+META,2022-01-06,Citigroup,Buy,250.83
+META,2023-07-13,Wells Fargo,Strong Buy,356.01
+META,2021-12-06,Morgan Stanley,Buy,373.19
+META,2021-05-10,Citigroup,Hold,310.52
+META,2021-11-17,JP Morgan,Hold,157.12
+META,2021-08-05,Bank of America,Hold,147.03
+META,2022-06-07,Goldman Sachs,Hold,288.29
+META,2022-05-23,Citigroup,Hold,113.34
+META,2022-04-14,Morgan Stanley,Hold,287.17
+META,2022-11-07,Goldman Sachs,Strong Buy,411.02
+META,2023-09-27,Wells Fargo,Strong Buy,495.08
+META,2021-10-29,JP Morgan,Sell,253.51
+META,2023-08-18,Citigroup,Buy,303.59
+META,2023-03-20,JP Morgan,Hold,309.05
+META,2023-01-31,Wells Fargo,Strong Buy,411.82
+META,2021-09-08,Bank of America,Buy,494.02
+META,2022-09-19,Goldman Sachs,Sell,461.87
+META,2021-08-27,Morgan Stanley,Buy,438.65
+META,2021-08-09,Goldman Sachs,Hold,424.53
+META,2023-03-10,Wells Fargo,Hold,207.42
+META,2021-02-15,Bank of America,Buy,410.21
+META,2023-05-09,Goldman Sachs,Buy,93.99
+META,2023-06-16,JP Morgan,Hold,360.27
+META,2022-05-31,Goldman Sachs,Buy,286.37
+META,2021-11-17,Wells Fargo,Strong Buy,203.81
+META,2021-06-14,JP Morgan,Buy,260.21
+META,2022-10-06,Bank of America,Buy,287.31
+META,2023-01-05,Bank of America,Buy,141.72
+META,2022-02-28,JP Morgan,Hold,407.77
+META,2022-03-29,JP Morgan,Buy,168.44
+META,2021-10-04,Morgan Stanley,Sell,132.44
+META,2022-08-08,JP Morgan,Hold,194.4
+META,2022-08-19,Bank of America,Strong Buy,184.14
+META,2021-09-15,Morgan Stanley,Hold,146.68
+META,2022-12-27,Goldman Sachs,Buy,107.48
+META,2022-03-24,Citigroup,Strong Buy,495.83
+META,2021-12-31,Citigroup,Buy,151.35
+META,2022-06-06,Wells Fargo,Buy,308.81
+META,2022-02-22,JP Morgan,Hold,252.14
+TSLA,2023-07-31,Bank of America,Strong Buy,361.62
+TSLA,2021-10-27,Goldman Sachs,Hold,312.13
+TSLA,2021-04-06,Wells Fargo,Hold,494.49
+TSLA,2022-08-16,JP Morgan,Buy,183.4
+TSLA,2022-10-20,Morgan Stanley,Buy,102.21
+TSLA,2022-06-06,Bank of America,Hold,250.81
+TSLA,2022-05-26,Goldman Sachs,Buy,374.26
+TSLA,2022-07-15,Wells Fargo,Sell,135.31
+TSLA,2021-12-31,Goldman Sachs,Buy,452.34
+TSLA,2021-03-05,Bank of America,Hold,442.86
+TSLA,2022-02-08,Goldman Sachs,Sell,326.81
+TSLA,2023-01-27,Bank of America,Sell,212.48
+TSLA,2022-04-07,Bank of America,Strong Buy,494.38
+TSLA,2022-03-18,Goldman Sachs,Hold,374.54
+TSLA,2022-08-11,Wells Fargo,Strong Buy,274.95
+TSLA,2022-03-04,Goldman Sachs,Hold,140.53
+TSLA,2021-11-18,Morgan Stanley,Buy,477.91
+TSLA,2023-11-17,Bank of America,Buy,349.12
+TSLA,2021-09-20,Wells Fargo,Strong Sell,309.34
+TSLA,2021-06-16,Bank of America,Buy,334.54
+TSLA,2021-06-28,Bank of America,Buy,255.89
+TSLA,2021-07-06,Bank of America,Buy,247.55
+TSLA,2021-08-16,Goldman Sachs,Strong Sell,492.75
+TSLA,2023-09-12,JP Morgan,Strong Sell,135.37
+TSLA,2023-04-12,Morgan Stanley,Buy,493.84
+TSLA,2023-09-26,Goldman Sachs,Buy,467.36
+TSLA,2022-05-02,Citigroup,Sell,237.28
+TSLA,2021-04-29,Citigroup,Strong Sell,403.89
+TSLA,2021-03-02,Morgan Stanley,Hold,441.09
+TSLA,2022-09-02,Bank of America,Hold,492.22
+TSLA,2021-08-23,JP Morgan,Buy,90.5
+TSLA,2022-08-23,Morgan Stanley,Hold,355.77
+TSLA,2021-03-10,Goldman Sachs,Sell,407.16
+TSLA,2021-03-02,Wells Fargo,Hold,217.94
+TSLA,2021-09-17,Citigroup,Buy,288.77
+TSLA,2021-11-23,Goldman Sachs,Strong Sell,86.89
+TSLA,2022-07-18,JP Morgan,Strong Sell,86.95
+TSLA,2023-08-28,Bank of America,Buy,384.41
+TSLA,2021-07-13,Morgan Stanley,Sell,370.28
+TSLA,2023-10-12,Morgan Stanley,Hold,213.41
+TSLA,2022-12-30,JP Morgan,Buy,230.18
+TSLA,2021-11-24,Citigroup,Hold,215.13
+TSLA,2022-06-01,JP Morgan,Strong Sell,159.18
+TSLA,2023-05-23,Citigroup,Sell,254.62
+TSLA,2023-03-28,Citigroup,Buy,444.52
+TSLA,2022-07-06,Wells Fargo,Buy,390.53
+TSLA,2022-12-06,Goldman Sachs,Sell,434.45
+TSLA,2022-05-31,Bank of America,Buy,197.87
+TSLA,2021-06-07,Wells Fargo,Strong Buy,248.67
+TSLA,2022-01-03,Goldman Sachs,Hold,238.02
+TSLA,2023-03-30,Citigroup,Strong Buy,483.46
+TSLA,2021-04-01,Bank of America,Hold,163.03
+TSLA,2023-08-29,Wells Fargo,Hold,101.66
+TSLA,2022-12-02,Citigroup,Buy,471.78
+TSLA,2021-03-26,Citigroup,Buy,195.52
+TSLA,2021-05-06,Citigroup,Sell,372.79
+TSLA,2022-05-16,Goldman Sachs,Buy,150.92
+TSLA,2023-02-13,Morgan Stanley,Strong Buy,141.67
+TSLA,2022-06-02,Goldman Sachs,Sell,405.45
+TSLA,2022-11-22,Wells Fargo,Sell,279.78
+TSLA,2023-06-26,Wells Fargo,Hold,197.86
+TSLA,2022-07-22,Goldman Sachs,Strong Buy,414.66
+NVDA,2021-03-04,Goldman Sachs,Buy,492.72
+NVDA,2023-03-22,Citigroup,Hold,418.48
+NVDA,2022-09-06,Goldman Sachs,Buy,216.16
+NVDA,2021-04-08,Wells Fargo,Buy,339.29
+NVDA,2023-04-13,Wells Fargo,Sell,416.69
+NVDA,2022-12-21,Citigroup,Hold,201.66
+NVDA,2022-01-25,JP Morgan,Buy,221.31
+NVDA,2022-11-22,JP Morgan,Hold,114.76
+NVDA,2021-04-28,Morgan Stanley,Hold,264.05
+NVDA,2022-03-15,Goldman Sachs,Strong Sell,345.42
+NVDA,2021-05-25,Bank of America,Hold,336.58
+NVDA,2021-11-15,Bank of America,Strong Buy,314.07
+NVDA,2022-06-27,Citigroup,Buy,396.14
+NVDA,2022-10-19,Goldman Sachs,Hold,241.61
+NVDA,2021-07-19,Goldman Sachs,Buy,416.6
+NVDA,2023-01-09,Wells Fargo,Strong Buy,267.77
+NVDA,2022-04-12,JP Morgan,Buy,298.34
+NVDA,2022-01-13,Bank of America,Hold,214.34
+NVDA,2022-04-28,Citigroup,Hold,223.32
+NVDA,2023-07-06,JP Morgan,Sell,141.69
+NVDA,2021-05-13,Bank of America,Hold,188.91
+NVDA,2023-05-09,Bank of America,Buy,80.47
+NVDA,2021-04-09,Goldman Sachs,Strong Buy,390.92
+NVDA,2021-06-28,Morgan Stanley,Buy,288.48
+NVDA,2022-06-22,Citigroup,Sell,414.03
+NVDA,2021-09-22,Morgan Stanley,Buy,319.05
+NVDA,2022-12-12,Morgan Stanley,Hold,278.7
+NVDA,2023-03-28,JP Morgan,Strong Buy,364.71
+NVDA,2022-03-15,Bank of America,Hold,305.47
+NVDA,2021-07-09,Wells Fargo,Buy,203.69
+NVDA,2023-05-22,Wells Fargo,Hold,405.93
+NVDA,2021-07-29,Bank of America,Buy,254.16
+NVDA,2021-05-25,Morgan Stanley,Buy,151.13
+NVDA,2022-05-18,Citigroup,Buy,323.24
+NVDA,2021-07-20,Citigroup,Hold,263.31
+NVDA,2021-08-30,Citigroup,Hold,163.11
+NVDA,2022-05-27,Citigroup,Sell,215.89
+NVDA,2023-11-02,Goldman Sachs,Buy,418.58
+NVDA,2021-01-19,Goldman Sachs,Buy,405.28
+NVDA,2021-03-19,Bank of America,Buy,160.09
+NVDA,2022-12-06,Bank of America,Strong Sell,317.6
+NVDA,2023-04-26,Morgan Stanley,Hold,317.6
+NVDA,2022-04-01,JP Morgan,Sell,199.77
+NVDA,2023-09-07,Goldman Sachs,Buy,315.75
+NVDA,2022-11-29,Citigroup,Strong Buy,226.21
+NVDA,2022-03-21,Goldman Sachs,Buy,254.54
+NVDA,2023-09-11,Citigroup,Buy,194.4
+NVDA,2021-08-31,Morgan Stanley,Strong Buy,379.38
+NVDA,2022-07-01,Bank of America,Sell,105.3
+NVDA,2023-03-27,Goldman Sachs,Hold,456.63
+NVDA,2022-01-26,Morgan Stanley,Buy,218.23
+NVDA,2022-03-28,Citigroup,Buy,403.1
+NVDA,2021-04-29,Morgan Stanley,Hold,396.15
+NVDA,2021-05-05,Bank of America,Hold,381.89
+NVDA,2021-07-28,Goldman Sachs,Sell,190.1
+NVDA,2023-10-25,JP Morgan,Hold,318.55
+NVDA,2023-11-13,Wells Fargo,Buy,271.66
+NVDA,2023-01-23,Bank of America,Strong Sell,476.83
+NVDA,2022-04-06,Goldman Sachs,Sell,92.37
+NVDA,2021-05-19,JP Morgan,Buy,376.83
+NVDA,2021-10-28,Morgan Stanley,Strong Buy,444.8
+NVDA,2022-03-14,Goldman Sachs,Strong Buy,184.98
+NFLX,2023-04-14,Bank of America,Hold,293.58
+NFLX,2023-05-17,Wells Fargo,Hold,84.04
+NFLX,2023-05-09,Wells Fargo,Sell,313.32
+NFLX,2023-09-04,JP Morgan,Strong Buy,263.77
+NFLX,2021-04-21,Morgan Stanley,Strong Buy,234.08
+NFLX,2023-07-07,Citigroup,Sell,449.13
+NFLX,2022-06-06,Morgan Stanley,Buy,173.56
+NFLX,2021-05-14,Bank of America,Hold,94.9
+NFLX,2022-06-30,Bank of America,Buy,199.23
+NFLX,2022-12-23,JP Morgan,Hold,424.55
+NFLX,2021-03-09,Wells Fargo,Hold,336.4
+NFLX,2021-08-11,Bank of America,Hold,484.58
+NFLX,2023-11-20,Goldman Sachs,Sell,285.96
+NFLX,2022-01-17,Bank of America,Strong Buy,397.96
+NFLX,2022-08-16,Wells Fargo,Buy,372.24
+NFLX,2021-02-10,Goldman Sachs,Buy,349.29
+NFLX,2021-09-07,Bank of America,Buy,279.22
+NFLX,2021-05-04,Morgan Stanley,Sell,167.18
+NFLX,2023-08-22,Bank of America,Hold,245.95
+NFLX,2023-10-05,Bank of America,Hold,261.39
+NFLX,2023-04-04,Morgan Stanley,Buy,327.9
+NFLX,2022-01-12,JP Morgan,Buy,149.98
+NFLX,2021-03-18,Citigroup,Sell,95.46
+NFLX,2021-04-28,Citigroup,Buy,267.42
+NFLX,2023-02-02,Citigroup,Hold,258.93
+NFLX,2022-06-24,Wells Fargo,Hold,411.68
+NFLX,2023-01-04,Wells Fargo,Strong Sell,449.36
+NFLX,2021-11-10,Goldman Sachs,Buy,436.58
+NFLX,2023-03-07,Bank of America,Hold,421.09
+NFLX,2022-02-07,Wells Fargo,Buy,270.69
+NFLX,2023-03-24,Morgan Stanley,Hold,464.23
+NFLX,2022-09-15,Morgan Stanley,Strong Buy,208.95
+NFLX,2021-05-06,Wells Fargo,Hold,381.31
+NFLX,2023-05-05,Bank of America,Hold,436.26
+NFLX,2023-01-12,JP Morgan,Buy,264.6
+NFLX,2021-08-16,Morgan Stanley,Strong Buy,465.47
+NFLX,2021-08-11,Citigroup,Buy,486.82
+NFLX,2022-01-13,Wells Fargo,Hold,114.03
+NFLX,2022-06-17,JP Morgan,Sell,310.04
+NFLX,2021-02-16,Morgan Stanley,Hold,445.44
+NFLX,2021-05-04,Citigroup,Buy,319.15
+NFLX,2021-05-12,Bank of America,Hold,87.84
+NFLX,2022-12-16,Citigroup,Strong Buy,159.57
+NFLX,2023-04-14,Morgan Stanley,Buy,166.84
